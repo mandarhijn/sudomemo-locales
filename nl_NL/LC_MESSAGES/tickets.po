@@ -21,7 +21,7 @@ msgstr "Je moet ingelogd zijn om een code te verzilveren."
 # Ticket delivery
 
 msgid "YOU_GOT_A_TICKET"
-msgstr "Je hebt een prijskaart!"
+msgstr "Je hebt een ticket!"
 
 msgid "CONTINUE"
 msgstr "Ga verder"
@@ -49,7 +49,7 @@ msgid "TICKET_REDEEM_NO_PRIZES"
 msgstr "Je hebt niks gewonnen. Sorry!"
 
 msgid "ACHIEVEMENT"
-msgstr "Achievement"
+msgstr "Prestatie"
 
 msgid "COLOR_STARS"
 msgstr "Kleursterren"
@@ -58,10 +58,10 @@ msgid "CREATORS_ROOM_THEME"
 msgstr "Thema Makersruimte"
 
 msgid "SUDOMEMO_CITIZENSHIP"
-msgstr "Sudomemo Citizenship"
+msgstr "Sudomemo Burgerschap"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "Je kan nu deze thema gebruiken in je Makersruimte!"
+msgstr "Je kan nu dit thema gebruiken in je Makersruimte!"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
@@ -75,37 +75,37 @@ msgstr "Saldo: %s dagen"
 # Each ticket type will have a name and a description
 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Demoprijskaartje"
+msgstr "Demoticket"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "Vanzelfsprekend, dit is de beschrijving voor het demoprijskaartje."
+msgstr "Vanzelfsprekend, dit is de beschrijving voor het demoticket."
 
 msgid "TICKET_NAME_regular_ticket"
-msgstr "Regulier Prijskaartje"
+msgstr "Regulier ticket"
 
 msgid "TICKET_DESC_regular_ticket"
 msgstr "Bedankt voor het gebruiken van Sudomemo!"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Twitter Promotie Prijskaartje"
+msgstr "Twitter Promotie ticket"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Bedankt voor het volgen van de Sudomemo Twitter!"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Instagram Promotie Prijskaartje"
+msgstr "Instagram Promotie ticket"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
 msgstr "Bedankt voor het volgen van de Sudomemo Instagram!"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Wekelijkse Onderwerp Winner Prijskaartje"
+msgstr "Wekelijkse Onderwerp Winner ticket"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Gefeliciteerd met het winnen van de Sudomemo Wekelijkse Onderwerp!"
+msgstr "Gefeliciteerd met het winnen van het Sudomemo Wekelijkse Onderwerp!"
 
 msgid "TICKET_NAME_birthday_ticket"
-msgstr "Verjaardagsprijskaartje"
+msgstr "Verjaardagsticket"
 
 msgid "TICKET_DESC_birthday_ticket"
 msgstr "Van Harte Gefeliciteerd!"
@@ -122,13 +122,13 @@ msgid "TICKET_NAME_one_month_plus_ticket"
 msgstr "Plusticket (Één Maand)"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "Dit prijskaartje zal je één maand Sudomemo Plus geven!"
+msgstr "Dit ticket zal je één maand Sudomemo Plus geven!"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Plusticket (Één Jaar)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "Dit prijskaartje zal je één jaar Sudomemo Plus geven!"
+msgstr "Dit ticket zal je één jaar Sudomemo Plus geven!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "Je hebt geen van dat item om te gebruiken."
@@ -152,7 +152,7 @@ msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Voor die speciale persoon. Drie maanden Plus, Kleursterren, en een exclusief thema."
 
 msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home Reward Ticket"
+msgstr "Folding@Home Belongingsticket"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Bedankt dat je helpt met het redden van levens!"
@@ -161,34 +161,34 @@ msgid "TICKET_NAME_green_panda_ticket"
 msgstr "Lazy Paisley-Ticket"
 
 msgid "TICKET_DESC_green_panda_ticket"
-msgstr "Deze Ticket geeft je 110 uitgeefbare Sudomemosterren, een exclusief thema, en een speciale badge op je profiel!"
+msgstr "Dit Ticket geeft je 110 uitgeefbare Sudomemosterren, een exclusief thema, en een speciale badge op je profiel!"
 
 msgid "TICKET_NAME_red_bird_ticket"
 msgstr "Bailey Flitwing-Ticket"
 
 msgid "TICKET_DESC_red_bird_ticket"
-msgstr "Deze ticket geeft je 230 uitgeefbare Sudomemosterren, een exclusief thema, en een speciale badge op je profiel!"
+msgstr "Dit ticket geeft je 230 uitgeefbare Sudomemosterren, een exclusief thema, en een speciale badge op je profiel!"
 
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ziggy Starburst-Ticket"
 
 msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "Deze ticket geeft je 350 uitgeefbare Sudomemosterren (misschien wel een zeldzame!), een exclusief thema, en een speciale badge op je profiel!"
+msgstr "Dit ticket geeft je 350 uitgeefbare Sudomemosterren (misschien wel een zeldzame!), een exclusief thema, en een speciale badge op je profiel!"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Russell Ramblewood-Ticket"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "Deze ticket geeft je 600 uitgeefbare Sudomemosterren (waarvan waarschijnlijk een paar zeldzaam!), een exclusief thema, en een speciale badge op je profiel!"
+msgstr "Dit ticket geeft je 600 uitgeefbare Sudomemosterren (waarvan waarschijnlijk een paar zeldzaam!), een exclusief thema, en een speciale badge op je profiel!"
 
 msgid "TICKET_NAME_golden_neko_ticket"
 msgstr "Mitsuo Meow-Ticket"
 
 msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "Deze ticket geeft je 1300 uitgeefbare Sudomemosterren (met meerdere zeldzame!), een exclusief thema, en een speciale badge op je profiel!"
+msgstr "Dit ticket geeft je 1300 uitgeefbare Sudomemosterren (met meerdere zeldzame!), een exclusief thema, en een speciale badge op je profiel!"
 
 msgid "TICKET_NAME_translator_ticket"
-msgstr "Vertalerticket"
+msgstr "Vertalersticket"
 
 msgid "TICKET_DESC_translator_ticket"
 msgstr "Bedankt dat je helpt met het lokaliseren van Sudomemo!"
@@ -197,7 +197,7 @@ msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors! Promoticket"
 
 msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+msgstr "Je hebt het Sudomemo x Colors! June 2020 Wekelijkse Onderwerp gewonnen! "
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Buurtwachtticket"
@@ -206,15 +206,15 @@ msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Bedankt dat je helpt Sudomemo een veilige en gastvrije plek te houden!"
 
 msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Featured Flipnote Ticket"
+msgstr "Uitgelichte Flipnote-Ticket"
 
 msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Congratulations! One of your Flipnotes was featured."
+msgstr "Gefeliciteerd! Één van je Flipnotes was uitgelicht."
 
 msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Featured Artist Ticket"
+msgstr "Uitgelichte Artiest-Ticket"
 
 msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
+msgstr "Wij feliciteren je hartelijk met je rol als Sudomemo Uitgelichte Artiest!"
 
 
